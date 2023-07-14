@@ -28,7 +28,7 @@ module.exports = new withModuleFederationPlugin({
 //       name: 'third-party',
 
 //       exposes: {
-//         './Module': './src/app/IM-FE-third-party/IM-FE-third-party.module.ts',
+//         './Module': './src/app/third-party/third-party.module.ts',
 //       },
 
 //       shared: {
